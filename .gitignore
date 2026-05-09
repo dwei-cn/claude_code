@@ -1,0 +1,7 @@
+F5-TTS/
+.claude/
+*.m4a
+*.wav
+outputs/
+__pycache__/
+*.pyc
