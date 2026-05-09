@@ -4,5 +4,6 @@ F5-TTS/
 *.m4a
 *.wav
 outputs/
+scratch/
 __pycache__/
 *.pyc
